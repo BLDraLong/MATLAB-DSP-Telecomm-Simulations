@@ -41,4 +41,4 @@ Functions dedicated to digital filter design:
 ## 👨‍💻 Author
 **Nguyen Hai Long**
 * Senior Student majoring in Electronics and Telecommunications Engineering at Industrial University of Ho Chi Minh City.
-* **Contact:** [Insert Your LinkedIn Profile Link Here]
+* **Contact:** [www.linkedin.com/in/nguyễn-hải-long-53818640a]
