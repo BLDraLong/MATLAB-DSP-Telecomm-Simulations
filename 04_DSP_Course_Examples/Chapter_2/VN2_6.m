@@ -1,0 +1,1 @@
+n=0:99;xn=cos(pi*n/15);stem(n,xn)
